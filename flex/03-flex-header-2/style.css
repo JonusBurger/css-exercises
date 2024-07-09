@@ -57,3 +57,7 @@ ul {
   margin-left: auto;
   gap: 16px;
 }
+.box{
+  display:flex;
+  flex-direction: row;
+}
